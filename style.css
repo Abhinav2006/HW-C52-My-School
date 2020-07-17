@@ -1,0 +1,59 @@
+h1{color: #6bc28f}
+*{border: solid}
+
+.title{
+    background-color: #efe4b2;
+    display: flex;
+    margin-left: 50px;
+    padding: 100px;
+    border: solid;
+}
+
+.title2{
+    background-color: #efe4b2;
+    display: flex;
+    margin-left: 50px;
+    border: solid;
+}
+
+.links{
+    background-color: #efe4b2;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.logo{
+    background-color: #efe4b2;
+    display: flex;
+    justify-content: center;
+}
+
+.about{
+    background-color: #efe4b2;
+    display: flex;
+    justify-content: center;
+}
+
+.logo2{
+    background-color: #efe4b2;
+    display: flex;
+    justify-content: center;
+}
+
+.experience{
+    background-color: #efe4b2;
+    display: flex;
+    justify-content: center;
+}
+
+.logo3{
+    background-color: #efe4b2;
+    display: flex;
+    justify-content: center;
+}
+
+.events{
+    background-color: #efe4b2;
+    display: flex;
+    justify-content: center;
+}
